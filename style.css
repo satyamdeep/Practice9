@@ -1,0 +1,27 @@
+.body {
+  background-color: teal;
+  height: 1000px;
+  width: 100%;
+}
+h1 {
+  text-align: center;
+}
+.h3white{
+    color: yellow;
+}
+.Box{
+    height: 50px;
+    width: 50px;
+    border: 4px solid black;
+    background-color: aqua;
+    margin: 5px;
+}
+
+.myStyle{
+  color: white;
+}
+
+.newPara{
+  font-size: 20px;
+  background-color: palevioletred;
+}
